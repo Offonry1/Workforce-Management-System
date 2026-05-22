@@ -3,6 +3,13 @@
 A full-stack workforce scheduling and management platform built with **FastAPI** (Python) on the backend and **React** on the frontend, containerised with **Docker** for easy deployment.
 
 ---
+## 📸 Screenshots
+
+### Login Page
+![Login](assets/login.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
 
 ## 🚀 Features
 
