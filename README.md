@@ -6,10 +6,10 @@ A full-stack workforce scheduling and management platform built with **FastAPI**
 ## 📸 Screenshots
 
 ### Login Page
-![Login](assets/login.png)
+![Login](assets/Login.png)
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ## 🚀 Features
 
